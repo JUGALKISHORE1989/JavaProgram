@@ -1,0 +1,6 @@
+JugalKishoreP
+https://github01.hclpnp.com/HIP/hip-server.git
+
+git clone https://username:password@github.com/blah/blahblah.git
+
+ https://jugalkishorep:Ashish@2005@git

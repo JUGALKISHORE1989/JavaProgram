@@ -5,6 +5,7 @@ public class SimpleCalculator {
 	
 	private double FirstNumber;
 	private double SecondNumber;
+	
 	public void setFirstNumber(double FirstNumber){
 	this.FirstNumber = FirstNumber;
 	}
